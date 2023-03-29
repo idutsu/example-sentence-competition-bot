@@ -1,0 +1,20 @@
+{
+  "name": "Example Sentence Competition Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start:dev": "nodemon .index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "eslint": "^8.36.0",
+    "nodemon": "^2.0.22"
+  }
+}
